@@ -1,0 +1,53 @@
+local_header( {
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-42-22 14:5:2",
+  "loopSlideshow" : 0,
+  "filename" : "FORD RANGER V5_prueba",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "FORD RANGER V5_prueba",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "51D6A224-53B6-4810-A8E8-F901A2363787",
+    "71693998-3EA3-4A68-AE2C-9B9900BD1944",
+    "657D0933-0160-4503-A397-AB38D038B40F",
+    "311915DF-0AD5-4B4F-8E41-41F16F1AB808",
+    "055085A7-C2B5-48F4-B3CF-08730DC1EA01",
+    "ABB53EC3-A6EE-49E2-B09F-36ECEE0BE265",
+    "095E85FE-9A71-47A6-AD48-B0D081F65891",
+    "9EB4D184-F119-46AA-B61E-A3FEECC4D661",
+    "640901C5-314D-449E-A5A4-F19A3D215531",
+    "9009B6C2-8915-4BF1-BF5E-C0F43A487695",
+    "0C13A448-F3B7-4DEB-8B5E-2406764AE233",
+    "26EACD1B-EB10-4C77-B179-0506B3B64B9C",
+    "84E3FF55-A897-44ED-90B6-BF9610D0699A",
+    "669C9D90-BABF-4380-949A-FF8B247B111D",
+    "EC528A63-5D44-4A15-9344-46340EFEAEDD",
+    "949C19FB-8BD4-4B0C-8F99-2F7FE4177127",
+    "9387829E-0C71-4744-A931-7957975C1814"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1920,
+  "slideHeight" : 1080,
+  "slideCount" : 17,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "Futura-Medium",
+    "Futura-BoldOblique",
+    "HelveticaNeue-Light",
+    "HelveticaNeue-Bold",
+    "HelveticaNeue-Italic",
+    "HelveticaNeue",
+    "Helvetica",
+    "Helvetica-Light",
+    "Futura-BookOblique",
+    "GillSans",
+    "HelveticaNeue-Medium"
+  ]
+} )
